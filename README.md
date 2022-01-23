@@ -1,6 +1,13 @@
 # Youtube Downloader 
 
 The script exists with a purpose of downloading multiple videos from youtube and store in a specific folder. Feel free to edit the script to satisfy your use.
+I can not do this without the help of pytube package, please check their github also: https://github.com/pytube/pytube
+
+Currently, the script only supports downloading mp3 files ( I have converted from mp4 to mp3 since pytube don't support that directly )
+
+## Dependecies
+1. python 
+2. ffmpeg
 
 ## Installation
 1. clone the repo
@@ -16,4 +23,5 @@ Note: Remember to paste each link on new lines
 - [ ] GUI
 - [ ] Implement try catch 
 - [ ] Refactor the code
+- [ ] More options when download files
 
