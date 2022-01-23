@@ -21,7 +21,7 @@ Note: Remember to paste each link on new lines
 - [ ] Fix the long name error
 - [ ] Allow to change the destination directory without modifying the script itself 
 - [ ] GUI
-- [ ] Implement try catch 
+- [ ] Implement error handling 
 - [ ] Refactor the code
 - [ ] More options when download files
 
