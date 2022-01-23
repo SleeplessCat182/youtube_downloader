@@ -6,8 +6,8 @@ I can not do this without the help of pytube package, please check their github 
 Currently, the script only supports downloading mp3 files ( I have converted from mp4 to mp3 since pytube don't support that directly )
 
 ## Dependecies
-1. python 
-2. ffmpeg
+1. [python](https://www.python.org/)
+2. [ffmpeg](https://www.ffmpeg.org/)
 
 ## Installation
 1. clone the repo
