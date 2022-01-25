@@ -23,7 +23,7 @@ Note: Remember to paste each link on new lines
 
 ### To do list
 - [X] Fix the long name error (The script will skip any song whose name are longer than 90 characters, this look likes to be the limitation of the OS)
-- [ ] Allow to change the destination directory without modifying the script itself 
+- [X] Allow to change the destination directory without modifying the script itself 
 - [ ] GUI
 - [ ] Implement error handling 
 - [ ] Refactor the code
