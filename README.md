@@ -8,6 +8,10 @@ Currently, the script only supports downloading mp3 files ( I have converted fro
 ## Dependecies
 1. [python](https://www.python.org/)
 2. [ffmpeg](https://www.ffmpeg.org/)
+3. [pytube](https://github.com/pytube/pytube)
+
+To install pytube, open your terminal and use the following command. Remember to install ffmpeg, it is very important to convert video (mp4 format) to mp3
+```python -m pip install pytube```
 
 ## Installation
 1. clone the repo
